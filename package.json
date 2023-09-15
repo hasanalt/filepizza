@@ -41,7 +41,7 @@
     "express-force-ssl": "^0.3.1",
     "express-winston": "^0.3.1",
     "filepizza-socket": "^1.0.0",
-    "newrelic": "^1.21.1",
+    "newrelic": "^11.1.0",
     "nib": "^1.1.0",
     "node-uuid": "^1.4.3",
     "nodemon": "^1.4.1",
